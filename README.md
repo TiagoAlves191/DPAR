@@ -18,6 +18,9 @@ It allows real-time detection of multiple objects from a video or camera feed, f
 
 When a potential **crowd gathering** is detected — i.e., when the average distance between detected individuals falls below a predefined threshold — the system:
 
+- Detects objetcs assimiled as people,
+- Calculates the middle point of the object,
+- Draws a bounding box around the object,
 - Connects detected bounding boxes with **red lines**,
 - **Saves a snapshot** of the current frame,
 - **Stores the data** in a database for later review,
@@ -71,6 +74,7 @@ Simple login system to manage access to the admin dashboard.
 <div align="center">
 <img src="assets/logo.png" alt="Project Logo" width="150" />
 </div>
+
 
 
 
