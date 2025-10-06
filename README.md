@@ -4,7 +4,7 @@
   <p><em>AI-powered object detection and crowd density analysis using YOLOv8, OpenCV, and Python.</em></p>
 
   <p>
-    <a href="https://github.com/yourusername/your-repo-name"><img src="https://img.shields.io/github/license/TiagoAlves191/Python" alt="License"></a>
+    <a href="https://github.com/yourusername/your-repo-name"><img src="https://img.shields.io/github/license/TiagoAlves191/DPAR" alt="License"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version"></a>
     <a href="#"><img src="https://img.shields.io/badge/YOLOv8-Detection-success" alt="YOLOv8"></a>
   </p>
@@ -69,6 +69,7 @@ Simple login system to manage access to the admin dashboard.
 | **Twilio / API Service** | SMS notification system *(optional)* |
 
 ---
+
 
 
 
