@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Project Logo" width="150" />
   <h1>YOLOv8 Object Detection & Crowd Monitoring System</h1>
   <p><em>AI-powered object detection and crowd density analysis using YOLOv8, OpenCV, and Python.</em></p>
 
@@ -69,6 +68,10 @@ Simple login system to manage access to the admin dashboard.
 | **Twilio / API Service** | SMS notification system *(optional)* |
 
 ---
+<div align="center">
+<img src="assets/logo.png" alt="Project Logo" width="150" />
+</div>
+
 
 
 
