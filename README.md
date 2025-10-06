@@ -41,6 +41,34 @@ The project includes a simple **Tkinter-based GUI**, **login system**, and **adm
   Flags potential crowd formations when predefined proximity limits are breached.
 
 - **Automatic Snapshot Capture**  
-  On crowd detection, saves a frame image automatically in a structured folder:
+  On crowd detection, saves a frame image automatically in a structured folder: agglomeration_screenshots/typeofdetection(video or live)/Year/month/day/hour/
+
+
+  - **Alert Notifications**  
+Sends a mobile message to a preconfigured operator when a crowd is detected.
+
+- **Database Logging & Admin Dashboard**  
+All detections are logged in a database and can be viewed via a secure admin login interface.
+
+- **User Authentication**  
+Simple login system to manage access to the admin dashboard.
+
+---
+
+## 🧩 Tech Stack
+
+| Component | Description |
+|------------|--------------|
+| **Python 3.10+** | Core language |
+| **Tkinter** | GUI interface |
+| **OpenCV** | Video processing & bounding box rendering |
+| **NumPy** | Mathematical computations |
+| **Ultralytics (YOLOv8)** | Object detection model |
+| **Pillow (PIL)** | Image handling |
+| **SQLite / MySQL** | Data storage (depending on setup) |
+| **Twilio / API Service** | SMS notification system *(optional)* |
+
+---
+
 
 
